@@ -1,0 +1,1 @@
+compitar: gcc -Wall main.c Interface.c bd.c SisControl.c -o SGI-LEI
